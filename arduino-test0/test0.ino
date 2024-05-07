@@ -1,4 +1,4 @@
-// Arduino sketch
+// @language Arduino
 const int ledPin = 13;
 
 void setup() {

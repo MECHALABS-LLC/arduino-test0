@@ -1,3 +1,6 @@
-*test0.ino linguist-detectable=true
-*test0.cpp linguist-detectable=false
+* linguist-vendored
+*.ino linguist-vendored=true
+
+*.ino linguist-detectable=true
+*.cpp linguist-detectable=false
 
